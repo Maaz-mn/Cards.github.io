@@ -15,11 +15,12 @@
     height: 350px;
     width: 200px;
     border: 2px;
-    border-style: inset;
+    /* border-style: inset; */
     display: inline-block;
     border-radius: 10px;
     margin-top: 20px;
     margin-right: 10px;
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.5));
 }
 .cards:hover{
     background-color: rgb(168, 221, 252);
