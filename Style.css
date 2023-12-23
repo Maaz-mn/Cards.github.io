@@ -4,11 +4,13 @@
     background-color: rgb(81, 77, 77);
     width: 100%;
     height:90px;
+    margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     text-shadow: 2px 2px 5px rgb(4, 220, 248);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    filter: drop-shadow(0px 0px 10px rgba(47, 41, 41, 0.751));
 }
 .cards{
     /* background-color: bisque; */
@@ -20,22 +22,22 @@
     border-radius: 10px;
     margin-top: 20px;
     margin-right: 10px;
-    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.5));
+    filter: drop-shadow(0px 0px 10px rgba(47, 41, 41, 0.751));
 }
 .cards:hover{
     background-color: rgb(168, 221, 252);
 }
 .img1{
     width: 95%;
-    height: 60%;
+    height: 50%;
     border-radius: 10px;
   margin-top: 5px;
 }
 .fa-star {
-    color: rgb(255, 217, 0);
+    color: rgb(255, 170, 0);
 }
 .fa-star-half-stroke{
-    color:rgb(255, 217, 0) ;
+    color:rgb(255, 170, 0) ;
 }
 .buynow:hover{
     /* background-color: lightblue; */
