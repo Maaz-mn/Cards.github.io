@@ -75,3 +75,20 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:crimson;
 }
+.instagram:link
+{color: crimson;}
+.instagram:visited
+{color: lightgreen;}
+.instagram:hover
+{color: lightblue;}
+.instagram:active
+{color: lightseagreen;}
+.github:link
+{color: crimson;}
+.github:visited
+{color: lightgreen;}
+.github:hover
+{color: lightblue;}
+.github:active
+{color: lightseagreen;}
+
